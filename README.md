@@ -1,6 +1,6 @@
 # ioc-enrich
 
-[![CI](https://github.com/YOUR_USERNAME/ioc-enrich/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/ioc-enrich/actions/workflows/ci.yml)
+[![CI](https://github.com/ajelyanilyas/ioc-enrich/actions/workflows/ci.yml/badge.svg)](https://github.com/ajelyanilyas/ioc-enrich/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -45,7 +45,7 @@ input (IP / domain / URL / hash)
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ioc-enrich.git
+git clone https://github.com/ajelyanilyas/ioc-enrich.git
 cd ioc-enrich
 python -m venv .venv
 .venv\Scripts\activate          # Windows  (use: source .venv/bin/activate on macOS/Linux)
